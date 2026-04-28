@@ -39,7 +39,7 @@ I am currently looking for new opportunities and am open to the following work m
 ### 📂 Featured Projects
 #### 🤖 [Noon-Scraper](https://github.com/WeLx1337/noon-scraper)
 - **Concept:** Robust data extraction to fuel AI/Analytical models.
-- **Key Tech:** `curl-cffi`, `Flask`, `Python`.
+- **Key Tech:** `BeautifulSoup4`, `curl-cffi`, `Flask`, `Python`.
 
 ---
 
