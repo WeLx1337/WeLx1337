@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah Omar Salem 👋 
+# Hi there, I'm Abdullah Salem 👋 
 
 ### 🚀 Computer Science Student & AI Solutions Explorer
 I am a first-year **Computer Science** student at the **Arab Open University (AOU)** in Jeddah. I bridge the gap between backend engineering and Artificial Intelligence, focusing on **RAG (Retrieval-Augmented Generation)** and autonomous agent workflows.
