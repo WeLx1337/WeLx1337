@@ -44,5 +44,4 @@ I am currently looking for new opportunities and am open to the following work m
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/abdullahomarsalem](https://www.linkedin.com/in/abdullahomarsalem)
 - **Email:** vwelxv@gmail.com
